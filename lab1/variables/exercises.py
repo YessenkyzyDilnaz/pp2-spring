@@ -16,14 +16,12 @@ z=x+y
 print(z)
 
 #ex5
-x,y,z="Orange", "Banana", "Cherry"
+x, y, z = "Orange", "Banana", "Cherry"
 
 #ex6
 x=y=z="Orange"
 
 #ex7
 def myfunc():
-    global x
-    x= "fantastic"
-
-    
+  global x
+  x = "fantastic"
