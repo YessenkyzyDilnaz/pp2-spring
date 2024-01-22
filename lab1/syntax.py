@@ -1,2 +1,7 @@
 #ex1
-print("Hello world")
+print("Hello, world!")
+
+#ex2
+if 5>2:
+    print("YES")
+
