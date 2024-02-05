@@ -121,10 +121,6 @@ else:
 if a == b and c == d:
   print("Hello")
 
-#ex6
-if a == b or c == d:
-  print("Hello")
-
 #ex7
 if 5 > 2:
    print("YES")
