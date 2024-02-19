@@ -1,5 +1,5 @@
 #ex1
-a = "Hello"
+a = "Hello "
 b = "World"
 c = a + b
 print(c)

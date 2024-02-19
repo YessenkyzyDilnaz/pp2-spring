@@ -5,7 +5,7 @@ if "apple" in fruits:
 
 #ex2
 fruits = {"apple", "banana", "cherry"}
-fruits.add("orange")
+fruits.("orange")
 
 #ex3
 fruits = {"apple", "banana", "cherry"}
